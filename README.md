@@ -1,2 +1,2 @@
-# basic-snake-game
+# snake-game
 This game is written in C programming language
